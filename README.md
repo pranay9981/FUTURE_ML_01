@@ -1,8 +1,11 @@
 # DemandOps | Intelligent Sales & Demand Forecasting 🚀
 
 ![Version](https://img.shields.io/badge/version-3.0-blue) ![Python](https://img.shields.io/badge/python-3.8+-green) ![Streamlit](https://img.shields.io/badge/streamlit-1.28+-red) ![XGBoost](https://img.shields.io/badge/xgboost-1.7+-orange)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sales-and-demand-forecasting.streamlit.app/)
 
 **DemandOps** is a professional-grade AI forecasting and demand planning platform designed for businesses to predict future sales, analyze trends, and simulate market scenarios. Built with **XGBoost** for precision modeling and **Streamlit** for an interactive dashboard, it empowers data-driven decision-making.
+
+> 🌟 **[Live Demo: Click Here to Open App](https://sales-and-demand-forecasting.streamlit.app/)**
 
 ---
 
@@ -111,9 +114,9 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Pranay**
+**Pranay Bagaria**
 *   [GitHub Profile](https://github.com/pranay9981)
-*   [LinkedIn](https://www.linkedin.com/in/pranay-kumar-reddy-060480257/)
+*   [LinkedIn](https://www.linkedin.com/in/pranay-bagaria/)
 *   *Passionate about Data Science & Machine Learning*
 
 ---
