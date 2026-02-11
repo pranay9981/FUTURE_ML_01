@@ -107,18 +107,8 @@ streamlit run app.py
 
 ---
 
-## 📝 License
-This project is open-source and available under the [MIT License](LICENSE).
+## Author
 
----
-
-## 👨‍💻 Author
-
-**Pranay Bagaria**
+**Built by Pranay Bagaria**
 *   [GitHub Profile](https://github.com/pranay9981)
 *   [LinkedIn](https://www.linkedin.com/in/pranay-bagaria/)
-*   *Passionate about Data Science & Machine Learning*
-
----
-
-*Built with ❤️ for Data Science & Business Intelligence.*
