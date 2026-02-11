@@ -7,6 +7,6 @@ shap
 optuna 
 joblib
 reportlab
-streamlit 
+streamlit>=1.31.0 
 plotly
 numpy
