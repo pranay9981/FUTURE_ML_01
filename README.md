@@ -41,7 +41,7 @@
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/pranay9981/FUTURE_ML_01.git
-cd demandops
+cd FUTURE_ML_01
 ```
 
 ### 2. Set Up a Virtual Environment (Recommended)
