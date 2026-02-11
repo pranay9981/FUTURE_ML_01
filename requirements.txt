@@ -1,0 +1,11 @@
+pandas 
+xgboost 
+scikit-learn 
+openpyxl
+matplotlib
+shap
+optuna 
+joblib
+reportlab
+streamlit 
+plotly
