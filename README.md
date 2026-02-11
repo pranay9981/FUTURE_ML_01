@@ -37,7 +37,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/demandops.git
+git clone https://github.com/pranay9981/FUTURE_ML_01.git
 cd demandops
 ```
 
@@ -106,6 +106,15 @@ streamlit run app.py
 
 ## 📝 License
 This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+## 👨‍💻 Author
+
+**Pranay**
+*   [GitHub Profile](https://github.com/pranay9981)
+*   [LinkedIn](https://www.linkedin.com/in/pranay-kumar-reddy-060480257/)
+*   *Passionate about Data Science & Machine Learning*
 
 ---
 

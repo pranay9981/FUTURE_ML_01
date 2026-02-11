@@ -123,7 +123,8 @@ data.xlsx
 *.model
 
 # Generated Outputs (Keep directory structure but ignore content)
-outputs/*
+# Generated Outputs (Keep directory structure)
+# outputs/*  <-- Commented out to allow upload to GitHub for Streamlit Cloud
 !outputs/.gitkeep
 
 # IDEs
