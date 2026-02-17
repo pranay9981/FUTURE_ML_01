@@ -110,5 +110,5 @@ streamlit run app.py
 ## 👨‍💻 Author
 
 **Built by Pranay Bagaria**
-*   [GitHub Profile](https://github.com/pranay9981)
+*   [GitHub](https://github.com/pranay9981)
 *   [LinkedIn](https://www.linkedin.com/in/pranay-bagaria/)
